@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Practice
+practice.ipynb
+Mission_to_Mars.ipynb
+Mission_to_Mars_Challenge_Starter_Code.ipynb
+
+# README.md
+README.md
