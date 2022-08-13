@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 # Practice
+practice
 practice.ipynb
 Mission_to_Mars.ipynb
 Mission_to_Mars_Practice.ipynb
